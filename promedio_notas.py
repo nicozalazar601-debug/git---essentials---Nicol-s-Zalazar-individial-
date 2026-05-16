@@ -1,3 +1,4 @@
+# versión original 
 # Programa individual - Nicolas Zalazar
 
 print("================================")
